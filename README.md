@@ -10,11 +10,11 @@ The purpose of this analysis is to help angel investors see the market potential
 
 Des Moines is a city with a 2019 estimated population of nearly 700,000 residents and is the largest and most populous city in Iowa with many parks and museums like New York city.
 
-Based on the analsis of Citi Bike data, many of the areas that were frequent start and ending locations for bike share customerers occurred in high tourist areas, near subway entry/exit points, popular parks and museums.  This was noted by the larger circle dimensions in the graphs and by examining the attractions in those zip codes.
+Based on the analysis of Citi Bike data in the month of August, many of the areas that were frequent start and ending locations for bike share customerers occurred in high tourist areas near subway entry/exit points, popular parks, businesses, shopping areas and museums in mid- to lower Manhattan, NYC. This was noted by the larger dark red circle figures in the map and by examining the attractions in those zip codes.
 
 The data shows that the bike share customers, who are largely 80% subscribers to the service, are more likely to heavily use this service during the weekdays and weekends.  Weekday usage is relegated to before (6-9am) and after (4-7pm) work hours, with the weekend usage being from 11am to 7pm.  This is positive because the subscribers are repeat customers that use the bike share service in a predictable way.
 
-The data shows a similar usage pattern when broken down on gender between men and women, however men dominate a 65% share of the number of bike trips taken.
+The data shows a similar usage pattern when broken down on gender between men and women, however men dominate a 65% share of the number of bike trips. There are also 2.5 times more men taking bike share trips than women.  .
 
 
 - In this congressioanl election, there were 369,711 votes cast in 3 counties, Jefferson, Denver and Arapahoe.
