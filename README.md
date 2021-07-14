@@ -3,10 +3,19 @@
 
 ## **Overview of Bike Sharing Analysis**
 ### Purpose
-The purpose of this election audit will be to perform an analysis data set which is the result of the election. The analysis will result in delivering the voter turnout and election race winner results to the election committee for validation.
+The purpose of this analysis is to help angel investors see the market potential of a bike sharing venture in Des Moines, Iowa based on a similar business in New York City.  It is hoped that the New York City's bike sharing (Citi Bike) data, being visually represented in Tableau, will persuade the investors to offer seed money to the Des Moines start-up.
 
 
 ## Viz Results
+
+Des Moines is a city with a 2019 estimated population of nearly 700,000 residents and is the largest and most populous city in Iowa with many parks and museums like New York city.
+
+Based on the analsis of Citi Bike data, many of the areas that were frequent start and ending locations for bike share customerers occurred in high tourist areas, near subway entry/exit points, popular parks and museums.  This was noted by the larger circle dimensions in the graphs and by examining the attractions in those zip codes.
+
+The data shows that the bike share customers, who are largely 80% subscribers to the service, are more likely to heavily use this service during the weekdays and weekends.  Weekday usage is relegated to before (6-9am) and after (4-7pm) work hours, with the weekend usage being from 11am to 7pm.  This is positive because the subscribers are repeat customers that use the bike share service in a predictable way.
+
+The data shows a similar usage pattern when broken down on gender between men and women, however men dominate a 65% share of the number of bike trips taken.
+
 
 - In this congressioanl election, there were 369,711 votes cast in 3 counties, Jefferson, Denver and Arapahoe.
 - In descending order of total votes per county in the precincts, 
