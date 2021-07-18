@@ -8,7 +8,7 @@ The purpose of this analysis is to help angel investors see the market potential
 
 ## Viz Results
 
-Des Moines is a city with a 2019 estimated population of nearly 700,000 residents and is the largest and most populous city in Iowa with many parks and museums like New York city.
+Des Moines is a city with a 2019 estimated population of nearly 700,000 residents and is the largest and most populous city in Iowa with many parks and museums like New York city.  Tableau dashboard and story link here => https://public.tableau.com/app/profile/kimberly.e.4638/viz/GWBCMOD14Del3NYCitiBikeKE062321/DesMoinesBikeShareBiz?publish=yes
 
 ### Popular Locations
 Based on the analysis of Citi Bike data in the month of August, many of the areas that were frequent start and ending locations for bike share customerers occurred in high tourist areas near subway entry/exit points, popular parks, businesses, shopping areas and museums in mid- to lower Manhattan, NYC. This was noted by the larger dark red circle figures in the map and by examining the attractions in those zip codes.
@@ -45,34 +45,9 @@ As many as 150,000 bikes have been checked out between 10 to 20 mins during peak
 
 Male subscribers and customers use the bike share service in greater numbers than females and for roughly the same amount of time.
 
-![image](https://user-images.githubusercontent.com/79073778/126054808-774d500c-7b5d-4a11-8845-987a1532e457.png)
-
 ![image](https://user-images.githubusercontent.com/79073778/126054911-6019811f-46f8-4a40-893a-dc2711b50c4b.png)
 
 
-
-
-- In this congressioanl election, there were 369,711 votes cast in 3 counties, Jefferson, Denver and Arapahoe.
-- In descending order of total votes per county in the precincts, 
-   + Denver county casted 306,055 votes representing 82.8% of total votes cast.
-   + Jefferson county casted 38,855 votes representing 10.5% of total votes cast.
-   + Araphoe casted 24,801 votes representing 6.7% of total votes cast.
-- Denver county was the majority county with the greatest number of votes.
-- 
-- The candidates running in the election were as follows:
-  + Diana DeGette came in first earning a total of 272,892 votes winning 73.8% of the total votes cast.
-  + Charles Casper Stockham came in second earning a total of 85,213 votes winning 23.0% of the total votes cast.
-  + Raymon Anthony Doane came in last in the election earning a meager 11,606 votes repreenting 3.1% of the vote.
-
-- Diane DeGette was the clear winner in this election contest winning 73.8% of the overall total vote with 272,892 votes.
-
-![Module3PyPollTerminalResults](https://user-images.githubusercontent.com/79073778/111101194-c6292e00-851f-11eb-8dfb-4ebd3dfcc27a.png)
-
-
 ## Summary In Brief
-This script can be used by the election commission across other multiple counties in the state. They would have to
-append more data to the election data set.  They could also include more information by district, zipcode and party
-affiliation to give a more robust view of the type of voters that support the candidates.
+TDes Moines' has an estimated population near 700,000. The Midwest city has many of the same attractions like parks and trails, museums and landmarks as well as government and corporate entities where potential working bike share customers would use the service daily. As the data shows, there is high use for the service during the morning and evening weekday rush hour supporting the possibility that users are workers.  The data supports that bike-share destinations are often to popular neighborhoods, museums and parks by analyzing the zipcode locations of the largest bubble map areas. The place, the service, the costs to ride makes Des Moines fertile ground for this entrepreneurial endeavor.  
 
-
-![Module3ChallengeVSCode](https://user-images.githubusercontent.com/79073778/111101610-a6463a00-8520-11eb-94a9-df091911fa8c.png)
