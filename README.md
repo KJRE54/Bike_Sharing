@@ -41,11 +41,14 @@ Subscribers are the core users of the bike share program during the week.  But w
 
 As many as 150,000 bikes have been checked out between 10 to 20 mins during peak riding times. 
 
-![image](https://user-images.githubusercontent.com/79073778/126054772-1b1defe3-8b93-46da-9c56-e8ae8b2afa94.png)
+![image](https://user-images.githubusercontent.com/79073778/126054870-51218a56-9ae5-4b8e-a28e-3f57aac895c3.png)
 
-Male subscribers and customers use the bike share se rvice in greater numbers than females and for roughly the same amount of time.
+Male subscribers and customers use the bike share service in greater numbers than females and for roughly the same amount of time.
 
 ![image](https://user-images.githubusercontent.com/79073778/126054808-774d500c-7b5d-4a11-8845-987a1532e457.png)
+
+![image](https://user-images.githubusercontent.com/79073778/126054911-6019811f-46f8-4a40-893a-dc2711b50c4b.png)
+
 
 ![image](https://user-images.githubusercontent.com/79073778/126054748-9258bcf4-7a63-4b76-99ee-222508e2f599.png)
 
