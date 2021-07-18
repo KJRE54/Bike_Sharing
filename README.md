@@ -8,7 +8,9 @@ The purpose of this analysis is to help angel investors see the market potential
 
 ## Viz Results
 
-Des Moines is a city with a 2019 estimated population of nearly 700,000 residents and is the largest and most populous city in Iowa with many parks and museums like New York city.  Tableau dashboard and story link here => https://public.tableau.com/app/profile/kimberly.e.4638/viz/GWBCMOD14Del3NYCitiBikeKE062321/DesMoinesBikeShareBiz?publish=yes
+Des Moines is a city with a 2019 estimated population of nearly 700,000 residents and is the largest and most populous city in Iowa with many parks and museums like New York city.  
+Tableau dashboard and story link here => 
+https://public.tableau.com/app/profile/kimberly.e.4638/viz/GWBCMOD14Del3NYCitiBikeKE062321/DesMoinesBikeShareBiz?publish=yes
 
 ### Popular Locations
 Based on the analysis of Citi Bike data in the month of August, many of the areas that were frequent start and ending locations for bike share customerers occurred in high tourist areas near subway entry/exit points, popular parks, businesses, shopping areas and museums in mid- to lower Manhattan, NYC. This was noted by the larger dark red circle figures in the map and by examining the attractions in those zip codes.
