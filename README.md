@@ -50,7 +50,6 @@ Male subscribers and customers use the bike share service in greater numbers tha
 ![image](https://user-images.githubusercontent.com/79073778/126054911-6019811f-46f8-4a40-893a-dc2711b50c4b.png)
 
 
-![image](https://user-images.githubusercontent.com/79073778/126054748-9258bcf4-7a63-4b76-99ee-222508e2f599.png)
 
 
 - In this congressioanl election, there were 369,711 votes cast in 3 counties, Jefferson, Denver and Arapahoe.
